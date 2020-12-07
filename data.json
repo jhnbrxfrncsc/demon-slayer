@@ -1,0 +1,30 @@
+{
+    "characters" : 
+    [
+        {
+            "name": "Shinobu Kocho",
+            "image": "img/Shinobu-thumb.png",
+            "combat": "Butterfly Breath Style"
+        },
+        {
+            "name": "Kanae Kocho",
+            "image": "img/Kanae-thumb.png",
+            "combat": "Flower Breath Style"
+        },
+        {
+            "name": "Kanao Kocho",
+            "image": "img/Kanao-thumb.png",
+            "combat": "Flower Breath Style"
+        },
+        {
+            "name": "Nezuko Kamado",
+            "image": "img/Nezuko-thumb.png",
+            "combat": "Demon Arts"
+        },
+        {
+            "name": "Tanjiro Kamado",
+            "image": "img/Tanjiro-thumb.png",
+            "combat": "Sun & Water Breath Style"
+        }
+    ]
+}

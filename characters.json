@@ -1,0 +1,785 @@
+{
+    "demon_slayer_corps" :
+    [ 
+        {
+            "id" : "insect-shinobu",
+            "title" : "Insect Hashira",
+            "first_name" : "Shinobu",
+            "last_name" : "Kocho",
+            "age" : 18,
+            "image": "img/Shinobu.png",
+            "image_thumbnail": "img/Shinobu-thumb.png",
+            "breath_style" : "Insect Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Butterfly Dance: Caprice",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Dance of the Bee Sting: True Flutter",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Dance of the Dragonfly: Compound Eye Hexagon",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Dance of the Centipede: Hundred-Legged Zigzag",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "water-giyu",
+            "title" : "Water Hashira",
+            "first_name" : "Giyu",
+            "last_name" : "Tomioka",
+            "age" : 19,
+            "image": "img/Giyu.png",
+            "image_thumbnail": "img/Giyu-thumb.png",
+            "breath_style" : "Water Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Water Breath First Form: Water Surface Slash",
+                    "skill_damage" : [40, 96],
+                    "mana" : 5
+                },
+                {
+                    "skill_name" : "Water Breath Seventh Form: Piercing Rain Drop",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Water Breath Tenth Form: Constant Flux",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Water Breath Eleventh Form: Dead Calm",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "love-kanroji",
+            "title" : "Love Hashira",
+            "first_name" : "Mitsuri",
+            "last_name" : "Kanroji",
+            "age" : 19,
+            "image": "img/Kanroji.png",
+            "image_thumbnail": "img/Kanroji-thumb.png",
+            "breath_style" : "Love Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Shivers of First Love",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Second Form: Love Pangs",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Third Form: Catlove Shower ",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fifth Form: Swaying Love - Wildclaw",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Sixth Form: Cat-Legged Winds of Love",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "serpent-iguro",
+            "title" : "Serpent Hashira",
+            "first_name" : "Obanai",
+            "last_name" : "Iguro",
+            "age" : 21,
+            "image": "img/Iguro.png",
+            "image_thumbnail": "img/Iguro-thumb.png",
+            "breath_style" : "Serpent Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Winding Serpent Slash",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Third Form: Coil Choke",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fourth Form: Twin-Headed Reptile",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Fifth Form: Slithering Serpent",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "wind-sanemi",
+            "title" : "Wind Hashira",
+            "first_name" : "Sanemi",
+            "last_name" : "Shinazugawa",
+            "age" : 21,
+            "image": "img/Sanemi.png",
+            "image_thumbnail": "img/Sanemi-thumb.png",
+            "breath_style" : "Wind Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Dust Whirlwind Cutter",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Third Form: Clear Storm Wind Tree",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Sixth Form: Black Wind Mountain Mist ",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Eighth Form: Primary Gale Slash",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Ninth Form: Idaten Typhoon",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "stone-gyomei",
+            "title" : "Stone Hashira",
+            "first_name" : "Gyomei",
+            "last_name" : "Himejima",
+            "age" : 27,
+            "image": "img/Gyomei.png",
+            "image_thumbnail": "img/Gyomei-thumb.png",
+            "breath_style" : "Stone Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1500,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Serpentinite Bipolar",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Second Form: Upper Smash",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Third Form: Stone Skin",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fourth Form: Volcanic Rock - Rapid Conquest",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Fifth Form: Arcs of Justice",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "flame-rengoku",
+            "title" : "Flame Hashira",
+            "first_name" : "Kyojuro",
+            "last_name" : "Rengoku",
+            "age" : 20,
+            "image": "img/Rengoku.png",
+            "image_thumbnail": "img/Rengoku-thumb.png",
+            "breath_style" : "Fire Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Unknowing Fire ",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Second Form: Rising Scorching Sun",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Third Form: Fiery Spirits",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fourth Form: Blooming Flame Undulation ",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Fifth Form: Flame Tiger",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Ninth Form: Rengoku",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "sound-uzui",
+            "title" : "Sound Hashira",
+            "first_name" : "Tengen",
+            "last_name" : "Uzui",
+            "age" : 23,
+            "image": "img/Uzui.png",
+            "image_thumbnail": "img/Uzui-thumb.png",
+            "breath_style" : "Sound Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 900,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Fast Attack",
+                    "skill_damage" : [40, 96],
+                    "mana" : 0
+                },
+                {
+                    "skill_name" : "First Form: Roar",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fourth Form: Constant Resounding Slashes",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Fifth Form: String Performance",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "mist-tokito",
+            "title" : "Mist Hashira",
+            "first_name" : "Muichiro",
+            "last_name" : "Tokito",
+            "age" : 14,
+            "image": "img/Tokito.png",
+            "image_thumbnail": "img/Tokito-thumb.png",
+            "breath_style" : "Mist Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Low Clouds, Distant Haze",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Second Form: Eight-Layered Mist",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Third Form: Scattering Mist Splash",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Fifth Form: Sea of Clouds and Haze ",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Six Form: Lunar Dispersing Mis",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Seventh Form: Obscuring Clouds",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "former-flower-kanae",
+            "title" : "(Former) Flower Hashira",
+            "first_name" : "Kanae",
+            "last_name" : "Kocho",
+            "age" : 17,
+            "image": "img/Kanae.png",
+            "image_thumbnail": "img/Kanae-thumb.png",
+            "breath_style" : "Flower Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 900,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Second Form: Honorable Shadow Plum",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Fourth Form: Crimson Hanagoromo",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fifth Form: Peonies of Futility",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Sixth Form: Whirling Peach",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                },
+                {
+                    "skill_name" : "Final Form: Equinoctial Vermilion Eye",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "former-water-sakonji",
+            "title" : "(Retired) Water Hashira",
+            "first_name" : "Sakonji",
+            "last_name" : "Urokodaki",
+            "age" : 32,
+            "image": "img/Sakonji.png",
+            "image_thumbnail": "img/Sakonji-thumb.png",
+            "breath_style" : "Water Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Fifth Form: Blessed Rain After the Drought",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Sixth Form: Whirlpool",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Seventh Form: Piercing Rain Drop",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Eighth Form: Waterfall Basin",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Ninth Form: Splashing Water Flow ",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Tenth Form: Constant Flux",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "former-thunder-jigoro",
+            "title" : "(Former) Jigoro Kamado",
+            "first_name" : "Jigoro",
+            "last_name" : "Kuwajima",
+            "age" : 46,
+            "image": "img/Jigoro.png",
+            "image_thumbnail": "img/Jigoro-thumb.png",
+            "breath_style" : "Thunder Breath Style",
+            "category" : [ "All", "Demon Slayer Corps", "Hashira" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Thunderclap and Flash",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Second Form: Rice Spirit",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Third Form: Thunder Swarm",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Fourth Form: Distant Thunder",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fifth Form: Heat Lightning",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Sixth Form: Rumble and Flash",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "kanao",
+            "title" : "Kanao Tsuyuri",
+            "first_name" : "Kanao",
+            "last_name" : "Tsuyuri",
+            "age" : 16,
+            "image": "img/Kanao.png",
+            "image_thumbnail": "img/Kanao-thumb.png",
+            "breath_style" : "Flower Breath Style",
+            "category" : [ "All", "Demon Slayer Corps" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Second Form: Honorable Shadow Plum",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Fourth Form: Crimson Hanagoromo",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Fifth Form: Peonies of Futility",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Sixth Form: Whirling Peach",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Final Form: Equinoctial Vermilion Eye",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "tanjiro",
+            "title" : "Tanjiro Kamado",
+            "first_name" : "Tanjiro",
+            "last_name" : "Kamado",
+            "age" : 15,
+            "image": "img/Tanjiro.png",
+            "image_thumbnail": "img/Tanjiro-thumb.png",
+            "breath_style" : "Sun & Water Breath Style",
+            "category" : [ "All", "Demon Slayer Corps" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "zenitsu",
+            "title" : "Zenitsu Agatsuma",
+            "first_name" : "Zenitsu",
+            "last_name" : "Agatsuma",
+            "age" : 16,
+            "image": "img/Zenitsu.png",
+            "image_thumbnail": "img/Zenitsu-thumb.png",
+            "breath_style" : "Thunder Breath Style",
+            "category" : [ "All", "Demon Slayer Corps" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Form: Thunderclap and Flash",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "First Form: Six Fold",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "First Form: Eight Fold",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "First Form: God Speed",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Seventh Form: Honoikazuchi Nokami",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "inosuke",
+            "title" : "Inosuke Hashibira",
+            "first_name" : "Inosuke",
+            "last_name" : "Hashibira",
+            "age" : 15,
+            "image": "img/Inosuke.png",
+            "image_thumbnail": "img/Inosuke-thumb.png",
+            "breath_style" : "Beast Breath Style",
+            "category" : [ "All", "Demon Slayer Corps" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "First Fang: Pierce",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Sixth Fang: Palisade Bite",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Fourth Fang: Slice 'n' Dice",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Eighth Fang: Explosive Rush",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Ninth Fang: Extending Bendy Slash",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Tenth Fang: Whirling Fangs ",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "genya",
+            "title" : "Genya Shinazugawa",
+            "first_name" : "Genya",
+            "last_name" : "Shinazugawa",
+            "age" : 15,
+            "image": "img/Genya.png",
+            "image_thumbnail": "img/Genya-thumb.png",
+            "breath_style" : "Demonic Transformation",
+            "category" : [ "All", "Demon Slayer Corps" ],
+            "health" : 1000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Demonic Transformation: Upper Rank 1 Empowerment",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Demonic Transformation: Flesh Gun",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Demonic Transformation: Demon Slayer Mark",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Blood Demon Art: Wooden Flesh Bullets",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Blood Demon Art: Blood Roots",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "demon-nezuko",
+            "title" : "Nezuko Kamado",
+            "first_name" : "Nezuko",
+            "last_name" : "Kamado",
+            "age" : 12,
+            "image": "img/Nezuko.png",
+            "image_thumbnail": "img/Nezuko-thumb.png",
+            "breath_style" : "Blood Demon Arts",
+            "category" : [ "All", "Demon" ],
+            "health" : 7000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Attack",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Demon Transformation",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Blood Demon Art: Exploding Blood",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "demon-tamayo",
+            "title" : "Demon Tamayo",
+            "first_name" : "Tamayo",
+            "last_name" : "Demon",
+            "age" : 595,
+            "image": "img/Tamayo.png",
+            "image_thumbnail": "img/Tamayo-thumb.png",
+            "breath_style" : "Blood Demon Arts",
+            "category" : [ "All", "Demon" ],
+            "health" : 10000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Blood Bewitchment ",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Scent of Illusory Blood: Visual Dream",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Magical Aroma of Daylight",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Flesh Seed",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        },
+        {
+            "id" : "demon-yushiro",
+            "title" : "Demon Yushiro",
+            "first_name" : "Yushiro",
+            "last_name" : "Demon",
+            "age" : 83,
+            "image": "img/Yushiro.png",
+            "image_thumbnail": "img/Yushiro-thumb.png",
+            "breath_style" : "Blood Demon Arts",
+            "category" : [ "All", "Demon" ],
+            "health" : 4000,
+            "mana" : 100,
+            "skills" : [
+                {
+                    "skill_name" : "Basic Attack",
+                    "skill_damage" : [40, 96],
+                    "mana" : 10
+                },
+                {
+                    "skill_name" : "Body Modification",
+                    "skill_damage" : [95, 160],
+                    "mana" : 20
+                },
+                {
+                    "skill_name" : "Blood Demon Art: Blindfold",
+                    "skill_damage" : [92, 203],
+                    "mana" : 25
+                },
+                {
+                    "skill_name" : "Blood Demon Art: Mind Control",
+                    "skill_damage" : [140, 260],
+                    "mana" : 30
+                }
+            ]
+        }
+    ]
+}
